@@ -1,23 +1,23 @@
 class Solution {
-    public int maxArea(int[] nums) {
-        int ans=0;
-        int i=0;
-        int j=nums.length-1;
-        while(i<=j){
-            if(nums[j]>nums[i]){
-                ans=Math.max(ans,(j-i)*nums[i]);
-                i++;
+    public int maxArea(int[] height) {
+        int maxArea = 0;
+
+        int left = 0;
+        int right = height.length - 1;
+
+        while (left < right) {
+            int width = right - left;
+            int length = Math.min(height[left], height[right]);
+
+            maxArea = Math.max(maxArea, width * length);
+
+            if (height[left] < height[right]) {
+                ++left;
+            } else {
+                --right;
             }
-            else if(nums[i]>nums[j]){
-                ans=Math.max(ans,(j-i)*nums[j]);
-                j--;
-            }else{
-                ans=Math.max(ans,(j-i)*nums[i]);
-                j--;
-                i++;
-            }
-            
         }
-        return ans;
+
+        return maxArea;
     }
 }
