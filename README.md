@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
