@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
 | ------- |
