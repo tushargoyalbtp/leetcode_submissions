@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,8 +106,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
