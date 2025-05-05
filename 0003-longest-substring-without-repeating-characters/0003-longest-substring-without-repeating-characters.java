@@ -10,7 +10,7 @@ class Solution {
 
             if (map.containsKey(ch) && map.get(ch) >= j) {
                 // Move start pointer j to right of last occurrence of ch
-                j = map.get(ch) + 1;
+                j = Math.max(map.get(ch) + 1, j);
             }
 
             map.put(ch, i);
