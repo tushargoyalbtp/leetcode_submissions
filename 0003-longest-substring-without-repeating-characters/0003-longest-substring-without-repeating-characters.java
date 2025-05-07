@@ -8,7 +8,7 @@ class Solution {
         while (i < s.length()) {
             char ch = s.charAt(i);
 
-            if (map.containsKey(ch) && map.get(ch) >= j) {
+            if (map.containsKey(ch)) {
                 // Move start pointer j to right of last occurrence of ch
                 j = Math.max(map.get(ch) + 1, j);
             }
