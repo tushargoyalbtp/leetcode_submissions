@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
@@ -16,10 +17,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
