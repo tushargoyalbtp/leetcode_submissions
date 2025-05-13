@@ -1,32 +1,29 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
+        int n = nums.length;
 
-        if(nums.length == 1 && nums[0] <= 0){
-            return 1;
-        }
-        
-        Arrays.sort(nums);
-
-        if(nums[nums.length-1] <= 0){
-            return 1;
-        }
-        
-        int end = nums[nums.length - 1];
-        
-        HashMap<Integer,Integer> mapCount = new HashMap<>();
-
-        for(int i=0; i<nums.length; i++){
-            mapCount.put(nums[i], mapCount.getOrDefault(nums[i], 0)+1);
-        }
-
-
-        for(int i=1; i<=end; i++){
-            if(!mapCount.containsKey(i)){
-                return i;
+        // Place each number in its correct position if possible
+        for (int i = 0; i < n; i++) {
+            while (
+                nums[i] > 0 && nums[i] <= n &&
+                nums[nums[i] - 1] != nums[i]
+            ) {
+                // swap nums[i] with nums[nums[i] - 1]
+                int correctIndex = nums[i] - 1;
+                int temp = nums[i];
+                nums[i] = nums[correctIndex];
+                nums[correctIndex] = temp;
             }
         }
 
-        return nums[nums.length - 1] + 1;
+        // Find the first missing positive
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != i + 1) {
+                return i + 1;
+            }
+        }
 
+        // If all positions are filled correctly
+        return n + 1;
     }
 }
