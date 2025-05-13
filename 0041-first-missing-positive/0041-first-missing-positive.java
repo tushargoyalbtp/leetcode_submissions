@@ -3,6 +3,7 @@ class Solution {
         int n = nums.length;
 
         // Place each number in its correct position if possible
+        //Here we are doing soring and swapping and separating or avoiding zeros and negatives.
         for (int i = 0; i < n; i++) {
             while (
                 nums[i] > 0 && nums[i] <= n &&
