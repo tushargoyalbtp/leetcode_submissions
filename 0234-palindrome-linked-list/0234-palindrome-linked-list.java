@@ -11,35 +11,57 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
 
-        // ListNode newHead = reverse(head);
-        ListNode curr = head;
-        int count = 0;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(curr!=null){
-            curr = curr.next;
-            count++;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int[] node = new int[count];
-        int i = 0;
-        while(head!=null){
-            node[i] = head.val;
-            i++;
-            head = head.next;
-        }
+        ListNode secondHalf = reverse(slow);
+        // ListNode copyofsecondhalf = secondHalf;
 
-        int k = 0;
-        int j = count - 1;
-
-        while(k<j){
-            if(node[k] != node[j]){
+        ListNode firsthalf = head;
+        while( secondHalf != null ){
+            if(firsthalf.val != secondHalf.val){
                 return false;
             }
-            k++;
-            j--;
+            firsthalf = firsthalf.next;
+            secondHalf = secondHalf.next;
         }
 
         return true;
+
+        // ListNode newHead = reverse(head);
+        // ListNode curr = head;
+        // int count = 0;
+
+        // while(curr!=null){
+        //     curr = curr.next;
+        //     count++;
+        // }
+
+        // int[] node = new int[count];
+        // int i = 0;
+        // while(head!=null){
+        //     node[i] = head.val;
+        //     i++;
+        //     head = head.next;
+        // }
+
+        // int k = 0;
+        // int j = count - 1;
+
+        // while(k<j){
+        //     if(node[k] != node[j]){
+        //         return false;
+        //     }
+        //     k++;
+        //     j--;
+        // }
+
+        // return true;
 
 
         // while(curr!=null){
@@ -61,20 +83,20 @@ class Solution {
 
     }
 
-    // public ListNode reverse(ListNode head){
-    //     ListNode curr = head;
-    //     ListNode forw = null;
-    //     ListNode prev = null;
+    public ListNode reverse(ListNode head){
+        ListNode curr = head;
+        ListNode forw = null;
+        ListNode prev = null;
 
-    //     while(curr!=null){
-    //         forw = curr.next;
-    //         curr.next = prev;
-    //         prev = curr;
-    //         curr = forw;
-    //     }
+        while(curr!=null){
+            forw = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = forw;
+        }
 
-    //     head = prev;
+        head = prev;
 
-    //     return head;
-    // }
+        return head;
+    }
 }
