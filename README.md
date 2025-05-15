@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
+| [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
+| [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,4 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
