@@ -1,56 +1,52 @@
 class Solution {
+
     public List<List<String>> solveNQueens(int n) {
-        
-        
-        List<List<String>> ans = new ArrayList<>();
-        
+
+        List<List<String>> ansList = new ArrayList<>();
         char[][] board = new char[n][n];
 
-        for(int i=0; i<n; i++){
-            for(int j = 0; j<n; j++){
-                // List<String> queenPlaces = new ArrayList<>();
-                // dfs(i, j, ans, queenPlaces, n);
-
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
                 board[i][j] = '.';
             }
         }
 
-        dfsSolve(board, ans, n, 0);
+        dfsSolve(board, n, ansList, 0);
 
-        return ans;
+        return ansList;
 
     }
 
-    public void dfsSolve(char[][] board, List<List<String>> ans, int n, int col) {
+    public void dfsSolve(char[][] board, int n, List<List<String>> ansList, int col) {
         if (col == n) {
-            ans.add(construct(board));
+            ansList.add(construct(board));
             return;
         }
 
         for (int row = 0; row < n; row++) {
-            if (isSafe(row, col, n, board)) {
+            if (isSafePut(row, col, n, board)) {
                 board[row][col] = 'Q';
-                dfsSolve(board, ans, n, col + 1);
+                dfsSolve(board, n, ansList, col + 1);
                 board[row][col] = '.';
             }
         }
-
     }
 
-    public boolean isSafe(int row, int col, int n, char[][] board) {
-        int duprow = row;
-        int dupcol = col;
+    public boolean isSafePut(int row, int col, int n, char[][] board) {
+        int dupRow = row;
+        int dupCol = col;
 
         while (row >= 0 && col >= 0) {
             if (board[row][col] == 'Q') {
                 return false;
             }
+
             row--;
             col--;
         }
 
-        col = dupcol;
-        row = duprow;
+        col = dupCol;
+        row = dupRow;
         while (col >= 0) {
             if (board[row][col] == 'Q') {
                 return false;
@@ -59,13 +55,12 @@ class Solution {
             col--;
         }
 
-        row = duprow;
-        col = dupcol;
+        row = dupRow;
+        col = dupCol;
         while (row < n && col >= 0) {
             if (board[row][col] == 'Q') {
                 return false;
             }
-
             row++;
             col--;
         }
@@ -73,12 +68,19 @@ class Solution {
         return true;
     }
 
-    static List<String> construct(char[][] board) {
-        List<String> res = new LinkedList<String>();
-        for (int i = 0; i < board.length; i++) {
-            String s = new String(board[i]);
-            res.add(s);
+    public List<String> construct(char[][] board){
+        List<String> res = new ArrayList<String>();
+        
+
+
+        for(int i=0; i<board.length; i++){
+            StringBuilder sb = new StringBuilder();
+            for(int j = 0; j<board.length; j++){
+                sb.append(board[i][j]);
+            }
+            res.add(sb.toString());
         }
+
         return res;
     }
 
