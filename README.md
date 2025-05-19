@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
+| [0416-partition-equal-subset-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0055-jump-game) |
+| [0416-partition-equal-subset-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
