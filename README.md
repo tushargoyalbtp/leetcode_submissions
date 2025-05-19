@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
 ## Sliding Window
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
@@ -202,5 +206,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0543-diameter-of-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
