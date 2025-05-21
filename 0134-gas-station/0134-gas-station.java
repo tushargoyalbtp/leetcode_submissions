@@ -3,10 +3,9 @@ class Solution {
         int index = 0;
         int totalfuel = 0;
         int totalcost = 0;
-        int n = cost.length;
         int tank = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < cost.length; i++) {
             totalfuel += gas[i];
             totalcost += cost[i];
             tank += gas[i] - cost[i];
