@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
