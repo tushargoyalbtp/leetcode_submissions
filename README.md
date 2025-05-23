@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0053-maximum-subarray) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0134-gas-station) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0322-coin-change) |
