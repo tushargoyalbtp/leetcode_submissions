@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0136-single-number) |
+| [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0322-coin-change) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
