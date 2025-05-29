@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3265-maximum-good-subarray-sum) |
+| [3430-count-days-without-meetings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [3430-count-days-without-meetings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3430-count-days-without-meetings) |
 ## Breadth-First Search
 |  |
 | ------- |
