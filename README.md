@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
@@ -285,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
