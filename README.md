@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
+| [0796-reaching-points](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0796-reaching-points) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 ## Bit Manipulation
 |  |
