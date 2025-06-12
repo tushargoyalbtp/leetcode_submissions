@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0053-maximum-subarray) |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 ## Geometry
