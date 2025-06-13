@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 ## Linked List
@@ -194,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
@@ -328,4 +333,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
