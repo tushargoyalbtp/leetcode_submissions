@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0322-coin-change) |
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
+| [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 ## Stack
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0210-course-schedule-ii) |
+| [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 ## Topological Sort
 |  |
 | ------- |
@@ -340,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
+## Union Find
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
