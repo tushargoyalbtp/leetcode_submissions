@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3265-maximum-good-subarray-sum) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Trie
 |  |
 | ------- |
