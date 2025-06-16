@@ -9,60 +9,45 @@
  * }
  */
 class Solution {
-
-    public ListNode getKthNode(ListNode temp, int k){
-        k -= 1;
-        while(temp!=null && k>0){
-            k--;
-            temp = temp.next;
+    public int lenLL(ListNode head){
+        int count = 0;
+        while(head!=null){
+            count++;
+            head=head.next;
         }
-        return temp;
+
+        return count;
     }
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode temp = head;
-        ListNode prevLast = head;
+        int length = lenLL(head);
+        int groups = length/k;
+        ListNode currHead = head;
+        ListNode prevHead = null;
+        ListNode ansNode = null;
 
-        while(temp != null){
-            ListNode kthNode = getKthNode(temp, k);
-            if(kthNode == null){
-                if(prevLast != null){
-                    prevLast.next = temp;
-                }
-
-                break;
+        for(int i = 0; i < groups; i++){
+            ListNode prev = null;
+            ListNode curr = currHead;
+            ListNode nextnode = null;
+            for(int j = 0; j < k; j++){
+                nextnode = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = nextnode;
             }
-
-            ListNode nextNode = kthNode.next;
-            kthNode.next = null;
-            reverseLL(temp);
-            if(temp == head){
-                head = kthNode;
+            if(prevHead == null){
+                ansNode = prev;
             }
-            else{
-                prevLast.next = kthNode;
+            else {
+                prevHead.next = prev;
             }
-
-            prevLast = temp;
-            temp = nextNode;
+            prevHead = currHead;
+            currHead = curr;
         }
 
-        return head;
-        
-    }
+        prevHead.next = currHead;
 
-    public void reverseLL(ListNode head){
-        ListNode curr = head;
-        ListNode forw = null;
-        ListNode prev = null;
-
-        while(curr!=null){
-            forw = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = forw;
-        }
-
-        head = prev;
+        return ansNode;
         
     }
 }
