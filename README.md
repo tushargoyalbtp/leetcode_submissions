@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
