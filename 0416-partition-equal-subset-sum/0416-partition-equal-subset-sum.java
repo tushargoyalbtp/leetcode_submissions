@@ -1,94 +1,77 @@
 class Solution {
-    public boolean canPartition(int[] nums) {
-
-        int sum = 0;
-        for(int num : nums){
-            sum += num;
+    public boolean functionHelper(int index, int target, int[][] dp, int[] nums){
+        if(target == 0){
+            return true;
+        }
+        if(index == 0){
+            return nums[0] == target;
+        }
+        if(dp[index][target] != -1){
+            return dp[index][target] == 0 ? false : true;
         }
 
-        if(sum % 2 != 0){
+        boolean nottake = functionHelper(index-1, target, dp, nums);
+
+        boolean take = false;
+        if(nums[index] <= target){
+            take = functionHelper(index-1, target-nums[index], dp, nums);
+        }
+
+        dp[index][target] = nottake || take ? 1 : 0;
+
+        return nottake || take ;
+    }
+    public boolean canPartition(int[] nums) {
+
+        int totalSum = 0;
+        for(int num : nums){
+            totalSum += num;
+        }
+
+        if(totalSum%2 !=0 ){
             return false;
         }
 
-        int target = sum / 2;
-
-        boolean[] dp = new boolean[target+1];
-        dp[0] = true;
-
-        for(int num : nums){
-            for(int j = target ; j>=num; j--){
-                dp[j] = dp[j] || dp[j-num];
-            }
+        int target =  totalSum / 2;
+        int[][] dp = new int[nums.length][target+1];
+        for(int[] row : dp){
+            Arrays.fill(row, -1);
         }
 
-        return dp[target];
-
+        return functionHelper(nums.length-1, target, dp, nums);
+        
+        // Arrays.sort(nums);
+        
         // int i = 0;
-        // int j = nums.length - 1;
+        
+        // int j = nums.length-1;
+        
+        // int n = nums.length;
 
-        // while (i + 1 < j) {
-        //     int leftSum = 0;
-        //     int rightSum = 0;
-
-        //     // Calculate leftSum from 0 to i
-        //     for (int x = 0; x <= i; x++) {
-        //         leftSum += nums[x];
-        //     }
-
-        //     // Calculate rightSum from j to end
-        //     for (int x = j; x < nums.length; x++) {
-        //         rightSum += nums[x];
-        //     }
-
-        //     int middleSum = 0;
-        //     for (int k = i + 1; k < j; k++) {
-        //         middleSum += nums[k];
-        //     }
-
-        //     int borderSum = leftSum + rightSum;
-
-        //     // System.out.println("i = " + i + ", j = " + j);
-        //     // System.out.println("leftSum ---> " + leftSum + " rightSum -----> " + rightSum);
-        //     // System.out.println("borderSum ---> " + borderSum + " middleSum -----> " + middleSum);
-
-        //     if (middleSum == borderSum) {
-        //         return true;
-        //     } else if (middleSum > borderSum) {
-        //         i++;
-        //     } else {
-        //         j--;
-        //     }
-        // }
-
-        // return false;
-
-        // int sum = 0;
-
-        // for (int i = 0; i < n; i++) {
-
-        //     sum += nums[i];
-        //     prefixSum[i] = sum;
-
-        // }
-        // for (int i = 0; i < nums.length; i++) {
-        //     int firstPartitionSum = partitionSum(0, i, nums);
-        //     int secodnParitionSum = partitionSum(i, nums.length, nums);
-
-        //     System.out.println("firstSum ------> " + firstPartitionSum + " secondSum --------> " + secodnParitionSum);
-
-        //     if (firstPartitionSum == secodnParitionSum) {
-        //         return true;
-        //     }
-        // }
-        // return false;
+        // return functionHelper(nums, i, 0, j, n);
+    
     }
 
-    // public int partitionSum(int start, int end, int[] nums) {
-    //     int sum = 0;
-    //     for (int i = start; i < end; i++) {
-    //         sum += nums[i];
+    // public boolean functionHelper(int[] nums, int i , int k , int j, int n){
+        
+    //     int presum = 0;
+    //     int aftersum = 0;
+
+    //     if( k+1 == n){
+    //         return false;
+    //     }
+        
+    //     for(int p = i; p <= k; p++){
+    //         presum += nums[p];
     //     }
 
-    //     return sum;
+    //     for(int q = k+1; q <= j; q++){
+    //         aftersum += nums[q];
+    //     }
+
+    //     if(presum == aftersum){
+    //         return true;
+    //     } 
+    //     return functionHelper(nums, i, k+1, j, n);
     // }
 }
