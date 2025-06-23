@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
+| [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
+| [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0796-reaching-points](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0796-reaching-points) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
+| [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
 ## Bit Manipulation
 |  |
 | ------- |
