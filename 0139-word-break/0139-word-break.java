@@ -3,11 +3,6 @@ class Solution {
         int n = s.length();
 
         Set<String> setString = new HashSet<>(wordDict);
-        Iterator<String> it = setString.iterator();
-        System.out.print("The iterator values are: ");
-        while (it.hasNext()) {
-            System.out.print(it.next() + " ");
-        }
 
         boolean[] dp = new boolean[n+1];
         dp[0] = true;
