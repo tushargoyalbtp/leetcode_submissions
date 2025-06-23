@@ -1,21 +1,26 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-         Set<String> wordSet = new HashSet<>(wordDict);
-        
-        // Create an array to store whether substrings up to a certain index can be segmented
-        boolean[] dp = new boolean[s.length() + 1];
-        dp[0] = true; // An empty string can always be segmented
-        
-        for (int i = 1; i <= s.length(); i++) {
+        int n = s.length();
+
+        Set<String> setString = new HashSet<>(wordDict);
+        Iterator<String> it = setString.iterator();
+        System.out.print("The iterator values are: ");
+        while (it.hasNext()) {
+            System.out.print(it.next() + " ");
+        }
+
+        boolean[] dp = new boolean[n+1];
+        dp[0] = true;
+
+        for (int i = 1; i <= n; i++) {
             for (int j = 0; j < i; j++) {
-                // Check if substring from j to i exists in the dictionary and whether substring up to j can be segmented
-                if (dp[j] && wordSet.contains(s.substring(j, i))) {
+                if (dp[j] && setString.contains(s.substring(j, i))) {
                     dp[i] = true;
                     break;
                 }
             }
         }
-        
-        return dp[s.length()];
+
+        return dp[n];
     }
 }
