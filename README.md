@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
+| [2808-painting-the-walls](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2808-painting-the-walls) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3265-maximum-good-subarray-sum) |
 | [3430-count-days-without-meetings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3430-count-days-without-meetings) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
+| [2808-painting-the-walls](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2808-painting-the-walls) |
 ## Matrix
 |  |
 | ------- |
