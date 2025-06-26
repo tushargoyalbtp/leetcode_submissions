@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
