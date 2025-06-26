@@ -36,6 +36,7 @@ class Solution {
         int dupRow = row;
         int dupCol = col;
 
+        // up left diagonal  
         while (row >= 0 && col >= 0) {
             if (board[row][col] == 'Q') {
                 return false;
@@ -45,6 +46,7 @@ class Solution {
             col--;
         }
 
+        // left  
         col = dupCol;
         row = dupRow;
         while (col >= 0) {
@@ -55,6 +57,7 @@ class Solution {
             col--;
         }
 
+        //down diaginal left
         row = dupRow;
         col = dupCol;
         while (row < n && col >= 0) {
