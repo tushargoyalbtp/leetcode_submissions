@@ -16,48 +16,64 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
 
-        List<List<Integer>> ansList = new ArrayList<>();
-        if(root==null){
-            return ansList;
+        if(root == null){
+            return new ArrayList<>();
         }
-        Queue<TreeNode> queue = new LinkedList<>();
 
-        queue.add(root);
-        int i = 0;
-        while (!queue.isEmpty()) {
-            int size = queue.size();
+        List<List<Integer>> ansList = new ArrayList<>();
 
-            List<Integer> list = new ArrayList<>();
+        Queue<TreeNode> que = new LinkedList<>();
+        int level = 1;
 
-            for (int j = 0; j < size; j++) {
-                TreeNode temp = queue.poll();
-                list.add(temp.val);
-                if(temp.left!=null){
-                    queue.add(temp.left);
+        que.add(root);
+        while (!que.isEmpty()) {
+            int size = que.size();
+
+            if (level % 2 != 0) {
+                List<Integer> list = new ArrayList<>();
+                //left to right
+                for (int i = 0; i < size; i++) {
+                    TreeNode node = que.poll();
+                    list.add(node.val);
+
+                    if (node.left != null) {
+                        que.add(node.left);
+                    }
+                    if (node.right != null) {
+                        que.add(node.right);
+                    }
                 }
-                if(temp.right!=null){
-                    queue.add(temp.right);
-                }
-            }
-            
-            if (i % 2 != 0) {
-                Collections.reverse(list);
+
                 ansList.add(list);
+                level++;
+
             } else {
-                ansList.add(list);
+                // right to left
+
+                List<Integer> list = new ArrayList<>();
+                //left to right
+                for (int i = 0; i < size; i++) {
+                    TreeNode node = que.poll();
+                    list.add(node.val);
+
+                    if (node.left != null) {
+                        que.add(node.left);
+                    }
+                    if (node.right != null) {
+                        que.add(node.right);
+                    }
+                }
+
+                List<Integer> list2 = new ArrayList<>();
+                for(int i = list.size() - 1 ; i >= 0 ; i--){
+                    list2.add(list.get(i));
+                }
+                ansList.add(list2);
+                level++;
             }
-            i++;
         }
 
         return ansList;
+
     }
-
-    // public List<Integer> reverseList(List<Integer> list){
-    //     List<Integer> ans = new ArrayList<>();
-    //     for(int i = list.size() - 1; i>=0; i--){
-    //         ans.add(list.get(i));
-    //     }
-
-    //     return ans;
-    // }
 }
