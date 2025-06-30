@@ -1,58 +1,40 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int i = 0;
-        int j =0;
-        int k = 0;
-        int[] ans = new int[nums1.length+nums2.length];
+        int n = nums1.length;
+        int m = nums2.length;
 
-        while(i<nums1.length && j<nums2.length){
-            if(nums1[i]<nums2[j]){
-                ans[k]=nums1[i];
-                i++;
-                k++;
+        // Ensure binary search on smaller array
+        if(n > m) {
+            return findMedianSortedArrays(nums2, nums1); // ✅ Return this result
+        }
+
+        int low = 0, high = n;
+        int total = n + m;
+        int left = (total + 1) / 2;
+
+        while(low <= high) {
+            int mid1 = (low + high) / 2;
+            int mid2 = left - mid1;
+
+            int l1 = (mid1 == 0) ? Integer.MIN_VALUE : nums1[mid1 - 1];
+            int l2 = (mid2 == 0) ? Integer.MIN_VALUE : nums2[mid2 - 1];
+
+            int r1 = (mid1 == n) ? Integer.MAX_VALUE : nums1[mid1];
+            int r2 = (mid2 == m) ? Integer.MAX_VALUE : nums2[mid2];
+
+            if(l1 <= r2 && l2 <= r1) {
+                if(total % 2 == 1) {
+                    return (double)Math.max(l1, l2);
+                } else {
+                    return ((double)(Math.max(l1, l2) + Math.min(r1, r2))) / 2.0;
+                }
+            } else if(l1 > r2) {
+                high = mid1 - 1;
+            } else {
+                low = mid1 + 1;
             }
-            else if(nums1[i]>nums2[j]){
-                ans[k]=nums2[j];
-                j++;
-                k++;
-            }
-            else{
-                ans[k]=nums1[i];
-                i++;
-                k++;
-                ans[k]=nums2[j];
-                j++;
-                k++;
-            }
         }
 
-        while(j<nums2.length){
-            ans[k]=nums2[j];
-            j++;
-            k++;
-        }
-
-        while(i<nums1.length){
-            ans[k]=nums1[i];
-            i++;
-            k++;
-        }
-
-        for(int p=0;p<ans.length;p++){
-            System.out.print(ans[p]+ ", ");
-        }
-
-        int length = ans.length;
-        System.out.println("length of final array: "+length);
-
-        if(length%2!=0){
-            System.out.println( (double)(ans[length/2]));
-            return (double)(ans[length/2]);
-        }
-        else{
-            double sum = (double)(ans[length/2] + ans[length/2 - 1]);
-            // System.out.println(ans[length/2] + "" + ans[length/2 - 1]);
-            return sum/2;
-        }
+        return 0.0; // Should not reach here
     }
 }
