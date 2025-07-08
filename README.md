@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
+| [0455-assign-cookies](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3430-count-days-without-meetings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3430-count-days-without-meetings) |
