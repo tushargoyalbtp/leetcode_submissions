@@ -1,10 +1,10 @@
 class Solution {
 
-    public int functionHelper(int[][][] dp, int ind, int canBuy, int cap, int[] prices){
+    public int functionHelper(Integer[][][] dp, int ind, int canBuy, int cap, int[] prices){
         if(ind == prices.length || cap == 0){
             return 0;
         }
-        if(dp[ind][canBuy][cap] != 0){
+        if(dp[ind][canBuy][cap] != null){
             return dp[ind][canBuy][cap];
         }
         int profit = 0;
@@ -36,7 +36,7 @@ class Solution {
         
         int n = prices.length;
 
-        int[][][] dp = new int[n][2][3];
+        Integer[][][] dp = new Integer[n][2][3];
 
         return functionHelper(dp, 0, 1, 2, prices);
     }
