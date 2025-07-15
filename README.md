@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0118-pascals-triangle) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 ## Union Find
 |  |
