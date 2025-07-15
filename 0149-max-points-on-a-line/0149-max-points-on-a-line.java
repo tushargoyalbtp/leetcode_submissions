@@ -1,72 +1,52 @@
 class Solution {
     public int maxPoints(int[][] points) {
-        if (points.length == 0) {
-            return 0;
-        }
+        if (points.length <= 2) return points.length;
 
-        if (points.length <= 2) {
-            return points.length;
-        }
+        int maxPoints = 0;
 
-        int result = 0;
-        int n = points.length;
+        for (int i = 0; i < points.length; i++) {
+            Map<String, Integer> slopeMap = new HashMap<>();
+            int duplicates = 1;  // Count the current point itself
 
-        for(int i = 0; i<n ; i++){
-            HashMap<Double, Integer> angleCount = new HashMap<>();
-
-            int samePoint = 1;
-            int samex = 0;
-            int max = 0;
-
-            for(int j = 0; j<n; j++){
-                if(j==i){
-                    continue;
-                }
-
-                double dy = points[j][1] - points[i][1];
-                double dx = points[j][0] - points[i][0];
-
-                if(dx == 0 && dy == 0){
-                    samePoint++;
-                } else if (dx == 0){
-                    samex++;
-                }
+            for (int j = i + 1; j < points.length; j++) {
+                // Handle duplicate points
+                if (points[i][0] == points[j][0] && points[i][1] == points[j][1]) {
+                    duplicates++;
+                } 
                 else {
-                    double angle = Math.atan2(dy, dx);
-                    angleCount.put(angle, angleCount.getOrDefault(angle, 0)+1);
-                    max = Math.max(max, angleCount.get(angle));
-                }                
+                    int dx = points[j][0] - points[i][0];
+                    int dy = points[j][1] - points[i][1];
+
+                    int gcd = getGCD(dx, dy);
+                    dx /= gcd;
+                    dy /= gcd;
+
+                    // Normalize direction: ensure dx is positive
+                    if (dx < 0) {
+                        dx = -dx;
+                        dy = -dy;
+                    }
+
+                    String slope = dy + "/" + dx;
+                    slopeMap.put(slope, slopeMap.getOrDefault(slope, 0) + 1);
+                }
             }
 
-            max = Math.max(max, samex);
-            result = Math.max(result, max+samePoint);
+            int currentMax = 0;
+            for (int count : slopeMap.values()) {
+                currentMax = Math.max(currentMax, count);
+            }
+
+            // Add duplicates to the current maximum
+            maxPoints = Math.max(maxPoints, currentMax + duplicates);
         }
 
+        return maxPoints;
+    }
 
-        return result;
-        // for (int i = 0; i < n; i++) {
-
-        //     for (int j = i + 1; j < n; j++) {
-        //         int dy = points[j][1] - points[i][1];
-        //         int dx = points[j][0] - points[i][0];
-
-        //         int count = 2;
-        //         for (int k = 0; k < n; k++) {
-
-        //             if (k != i && k != j) {
-        //                 int dy_s = points[k][1] - points[i][1];
-        //                 int dx_s = points[k][0] - points[i][0];
-
-        //                 if (dy * dx_s == dy_s * dx) {
-        //                     count++;
-        //                 }
-        //             }
-        //         }
-
-        //         result = Math.max(result, count);
-        //     }
-        // }
-
-        // return result;
+    // Helper function to compute GCD
+    private int getGCD(int a, int b) {
+        if (b == 0) return a;
+        return getGCD(b, a % b);
     }
 }
