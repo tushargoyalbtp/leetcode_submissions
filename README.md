@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0070-climbing-stairs) |
