@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
