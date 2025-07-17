@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1488-sort-integers-by-the-power-value](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2808-painting-the-walls](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2808-painting-the-walls) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0455-assign-cookies) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1488-sort-integers-by-the-power-value](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3430-count-days-without-meetings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3430-count-days-without-meetings) |
 ## Breadth-First Search
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
+| [1488-sort-integers-by-the-power-value](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Union Find
 |  |
 | ------- |
