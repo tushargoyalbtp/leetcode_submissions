@@ -1,58 +1,52 @@
 class Solution {
+    
+    HashMap<Integer,Integer> dpmap = new HashMap<>();
+
     public int getKth(int lo, int hi, int k) {
         
         HashMap<Integer,Integer> map = new HashMap<>();
 
         for( int i = lo; i <= hi; i++ ){
-            int getIndexLo = functionCount(i, 0);
+            int getIndexLo = functionCount(i);
             map.put(i, getIndexLo);
         }
 
-        int ans = 0;
-
-
-        for(Map.Entry<Integer,Integer> element : map.entrySet()){
-
-            int key = element.getKey();
-            int value = element.getValue();
-            System.out.println(key + " ---> " + value);
-
-        }
-
-        // ✅ Sort entries by value and key, then iterate to get k-th element
         List<Map.Entry<Integer, Integer>> sortedList = new ArrayList<>(map.entrySet());
 
+        // Sort by power value, then by number
         Collections.sort(sortedList, (a, b) -> {
             if (!a.getValue().equals(b.getValue())) {
-                return a.getValue() - b.getValue(); // sort by power value
+                return a.getValue() - b.getValue();
             } else {
-                return a.getKey() - b.getKey();     // break tie by number
+                return a.getKey() - b.getKey();
             }
         });
 
-        for (Map.Entry<Integer, Integer> element : sortedList) {
-            if (k == 1) {
-                ans = element.getKey(); // ✅ Return the number (not power value)
-                break;
-            }
-            k--;
-        }
-
-        return ans;
+        return sortedList.get(k - 1).getKey();
     }   
     
-    public int functionCount(int lo, int count){
+    public int functionCount(int lo){
         if(lo == 1){
-            return count;
+            return 0;
         }
+
+        if(dpmap.containsKey(lo)){
+            return dpmap.get(lo);
+        }
+
+        int result = 0;
+
         if(lo % 2 == 0){
-            count++;
-            return functionCount(lo/2, count);
+
+            result = 1 + functionCount(lo/2);
         }
 
         else {
-            count++;
-            return functionCount(3*lo+1, count);
+
+            result = 1 + functionCount(3*lo+1);
         }
+
+        dpmap.put(lo, result);
+        return result;
     }
 }
