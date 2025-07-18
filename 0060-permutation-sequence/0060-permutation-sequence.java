@@ -1,60 +1,66 @@
- class Solution {
-    //                                             // not the optimised approach 178/200 test cases pass only
-
-    // public void swap(char[] s, int i, int index){
-    //     char ch=s[i];
-    //     s[i]=s[index];
-    //     s[index]=ch;
-    // }    
-    // public void helper(char[] s, int ind, ArrayList<String> res){
-    //      if(ind==s.length){
-    //          String str=new String(s);
-    //          res.add(str);
-    //          return;
-    //      }
-
-    //      for(int i=ind;i<s.length;i++){
-    //         swap(s, i , ind);
-    //         helper(s,ind+1,res);
-    //         swap(s, i, ind);
-    //      }
+class Solution {
+    // public void swaps(int i , int index, char[] chars){
+    //     char ch = chars[i];
+    //     chars[i] = chars[index];
+    //     chars[index] = ch;
     // }
-    // public String getPermutation(int n, int k) {
-    //     String s="";
-    //     int fact=1;
-       
-    //     ArrayList<String> res=new ArrayList<>();
-    //     for(int i=1;i<=n;i++){
-    //         s=s+i;
+
+    // public void helper(char[] chars, int index, List<String> ansList){
+
+    //     if(index == chars.length){
+    //         String str = new String(chars);
+    //         ansList.add(str);
+    //         return;
     //     }
 
-    //     helper(s.toCharArray(), 0, res);
-    //     Collections.sort(res);
-    //     return res.get(k-1);
+    //     for(int i = index; i < chars.length; i++){
+    //         swaps(i, index, chars);
+    //         helper(chars, index+1, ansList);
+    //         swaps(i, index, chars);
+    //     }
     // }
-
     public String getPermutation(int n, int k) {
-        List<Integer> num=new ArrayList<Integer>();
-        int fact=1;
-        for(int i=1;i<=n;i++){
-            fact*=i;
-            num.add(i);
+        List<Integer> ansList = new ArrayList<Integer>();
+
+        int fact = 1;
+
+        for(int i = 1 ; i <= n; i++){
+            fact = fact*i;
+            ansList.add(i);
         }
+
         k--;
-        fact /=n;
-        StringBuilder sb=new StringBuilder();
-        for(int i=n-1;i>=1;i--){
-            int curr=k/fact;
-            sb.append(String.valueOf(num.get(curr)));
-            num.remove(curr);
+        StringBuilder sb = new StringBuilder();
+        fact = fact/n;
+
+        for(int i = n-1; i>=1; i--){
+            int curr = k/fact;
+            sb.append(String.valueOf(ansList.get(curr)));
+            ansList.remove(curr);
             k %= fact;
-            fact /= i;
-
+            fact = fact/i;
         }
-        sb.append(String.valueOf(num.get(0)));
 
+        sb.append(String.valueOf(ansList.get(0)));
         return sb.toString();
-    }
 
-    
+        // String str = "";
+        // for(int i = 1; i <= n; i++){
+        //     str = str + i;
+        // }
+
+
+        // helper(str.toCharArray(), 0, ansList);
+        // Collections.sort(ansList);
+        // return ansList.get(k-1);
+    }
 }
+
+
+
+
+// STRING 123 -> 
+// 1 3 2,
+
+// 2 1 3,
+// 2 3 1
