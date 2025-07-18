@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0221-maximal-square) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0419-battleships-in-a-board) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0322-coin-change) |
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0419-battleships-in-a-board) |
@@ -466,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 ## Binary Search Tree
 |  |
