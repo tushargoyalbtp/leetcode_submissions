@@ -10,24 +10,34 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        List<Integer> listIntegers = new ArrayList<>();
-        for(ListNode list: lists){
-            ListNode listNumber = list;
-            while(listNumber!=null){
-                listIntegers.add(listNumber.val);
-                listNumber = listNumber.next;
-            }            
+        if (lists == null || lists.length == 0) {
+            return null;
         }
 
-        Collections.sort(listIntegers);
-
-        ListNode ans = new ListNode(0);
-         ListNode finalAns = ans;
-        for(int element : listIntegers){
-            ans.next = new ListNode(element);
-            ans = ans.next;
+        while (lists.length > 1) {
+            List<ListNode> mergedLists = new ArrayList<>();
+            for (int i = 0; i < lists.length; i += 2) {
+                ListNode list1 = lists[i];
+                ListNode list2 = (i + 1 < lists.length) ? lists[i + 1] : null;
+                mergedLists.add(mergeTwoLists(list1, list2));
+            }
+            lists = mergedLists.toArray(new ListNode[mergedLists.size()]);
         }
 
-        return finalAns.next;
+        return lists[0];
+    }
+
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        if (list1 == null) {
+            return list2;
+        } else if (list2 == null) {
+            return list1;
+        } else if (list1.val < list2.val) {
+            list1.next = mergeTwoLists(list1.next, list2);
+            return list1;
+        } else {
+            list2.next = mergeTwoLists(list1, list2.next);
+            return list2;
+        }
     }
 }
