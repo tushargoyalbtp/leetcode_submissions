@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3265-maximum-good-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3265-maximum-good-subarray-sum) |
 ## String
 |  |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
 | ------- |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0988-flip-equivalent-binary-trees) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0988-flip-equivalent-binary-trees) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -428,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0988-flip-equivalent-binary-trees) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bucket Sort
 |  |
 | ------- |
