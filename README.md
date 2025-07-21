@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Monotonic Stack
 |  |
@@ -497,4 +500,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
