@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0665-non-decreasing-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0665-non-decreasing-array) |
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
+| [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
+| [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
