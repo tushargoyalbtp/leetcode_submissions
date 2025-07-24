@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
+| [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2808-painting-the-walls](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2808-painting-the-walls) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3265-maximum-good-subarray-sum) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
+| [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
+| [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
