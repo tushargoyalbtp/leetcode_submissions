@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
