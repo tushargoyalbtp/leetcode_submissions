@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0443-string-compression) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
@@ -523,4 +527,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
