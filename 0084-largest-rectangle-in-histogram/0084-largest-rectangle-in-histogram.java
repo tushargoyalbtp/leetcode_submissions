@@ -1,33 +1,67 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
+
         Stack<Integer> st = new Stack<>();
 
-        int length = heights.length;
-        int area = 0;
+        int maxArea =  0;
+        int n  = heights.length;
 
-        for(int i = 0; i<length; i++){
-            while(!st.isEmpty() && heights[i] < heights[st.peek()]){
-                int bar = st.pop(); // index of the bar
-                int pse = st.empty() ? -1 : st.peek(); // previous smaller element
-                int nse = i; // current index is the next smaller elkement
 
-                area = Math.max(area, heights[bar] * (nse - pse - 1));
+        for(int i = 0 ; i <= n; i++){
+            int currentheight = (i == n) ? 0 : heights[i];
+
+            while(!st.isEmpty() && heights[st.peek()] > currentheight){
+                int height = heights[st.pop()];
+                int width = st.isEmpty() ? i : i - st.peek() - 1;
+                maxArea = Math.max(maxArea, height*width);
             }
 
             st.push(i);
+
         }
 
+        return maxArea;
+        // if(heights.length == 0 ){
+        //     return 0;
+        // }
 
-        // process remaining bars in stack
+        // if( heights.length == 1 ){
+        //     return heights[0];
+        // }
+        
+        // HashMap<Integer,Integer> map = new HashMap<>();
+        // int max1 = Integer.MIN_VALUE;
+        // int max2 = Integer.MIN_VALUE;
 
-        while(!st.isEmpty()){
-            int bar = st.pop();
+        // for(int i = 0 ; i < heights.length; i++) {
+        //     map.put(heights[i], i);
+        //     max1 = Math.max(max1, heights[i]);
+        // }
 
-            int pse = st.empty() ? -1 : st.peek();
-            int nse = length;
-            area = Math.max(area, heights[bar] * (nse - pse - 1));
-        }
+        // for(int i = 0; i < heights.length; i++){
+        //     if(heights[i] == max1){
+        //         heights[i] = -1;
+        //         break;
+        //     }
+        // }
 
-        return area;
+        // for(int i = 0 ; i < heights.length; i++) {
+        //     max2 = Math.max(max2, heights[i]);
+        // }
+
+        // int maxAreaa = Integer.MIN_VALUE;
+        // System.out.println(max1+ " " + max2);
+
+
+
+        // System.out.println(map.get(max1)+ " ----  indexs  ---- " + map.get(max2));
+
+        // int breadth = Math.abs(map.get(max1) - map.get(max2))  + 1;
+
+        // System.out.println(breadth);
+
+        // int length = Math.min(max1, max2);
+        // return breadth * length;
+
     }
 }
