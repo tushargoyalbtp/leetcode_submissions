@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
@@ -525,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
