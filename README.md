@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -405,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
