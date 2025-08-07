@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
