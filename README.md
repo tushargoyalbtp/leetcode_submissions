@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
