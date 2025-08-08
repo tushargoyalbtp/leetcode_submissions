@@ -8,7 +8,7 @@
 //                 minPrice = price; // update min price so far
 //             } else {
 //                 maxProfit = Math.max(maxProfit, price - minPrice); // check profit if we sell today
-//             }
+//             } 
 //         }
 
 //         return maxProfit;
