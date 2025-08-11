@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
