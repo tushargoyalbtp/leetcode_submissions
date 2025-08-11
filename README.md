@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0076-minimum-window-substring) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0054-spiral-matrix) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0148-sort-list) |
