@@ -21,7 +21,7 @@ class Solution {
     
         return result;
     }
-    
+
     public static boolean compare(int[] a, int[] b){
         for(int i = 0; i < 26; i++){
             if(a[i] != b[i]) return false;
