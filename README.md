@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0643-maximum-average-subarray-i) |
 ## Array
