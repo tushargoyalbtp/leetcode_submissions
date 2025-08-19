@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
