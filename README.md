@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0420-strong-password-checker](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0321-create-maximum-number) |
+| [0394-decode-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
