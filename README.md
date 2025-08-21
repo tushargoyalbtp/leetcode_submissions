@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
