@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0242-valid-anagram) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0419-battleships-in-a-board) |
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
@@ -574,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
