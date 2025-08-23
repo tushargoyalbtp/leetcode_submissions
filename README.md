@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3265-maximum-good-subarray-sum](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/3265-maximum-good-subarray-sum) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
+| [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
+| [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
+| [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
