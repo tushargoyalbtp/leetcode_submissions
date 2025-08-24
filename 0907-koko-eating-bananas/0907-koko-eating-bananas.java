@@ -1,37 +1,37 @@
 class Solution {
-    public int totaltimerequire(int[] arr, int mid, int k) {
+    public int totaltimerequired(int[] arr, int mid){
+        
         int totaltime = 0;
-
-        for (int i = 0; i < arr.length; i++) {
+        
+        for(int i = 0; i < arr.length; i++){
             totaltime += Math.ceil((double) arr[i] / (double) mid);
         }
 
         return totaltime;
     }
-
+    
     public int minEatingSpeed(int[] arr, int k) {
+        int l = 1;
+        int h = Integer.MIN_VALUE;
 
-        int low = 1;
-        int high = Integer.MIN_VALUE;
         int ans = Integer.MAX_VALUE;
 
-        for (int i = 0; i < arr.length; i++) {
-            high = Math.max(high, arr[i]);
+        for(int i = 0; i < arr.length; i++){
+            h = Math.max(h, arr[i]);
         }
 
-        while (low <= high) {
-            int mid = (low + high) / 2;
+        while(l <= h){
+            int mid = (l+h)/2;
 
-            int totalHours = totaltimerequire(arr, mid, k);
-
-            if (totaltimerequire(arr, mid, k) <= k) {
-                high = mid - 1;
+            if(totaltimerequired(arr,mid) <= k){
+                h = mid - 1;
                 ans = mid;
-            } else {
-                low = mid + 1;
+            }
+            else{
+                l = mid + 1;
             }
         }
-        return ans;
 
+        return ans;
     }
 }
