@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0676-implement-magic-dictionary) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0567-permutation-in-string) |
+| [0676-implement-magic-dictionary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
+| [0676-implement-magic-dictionary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0676-implement-magic-dictionary) |
 ## Linked List
 |  |
 | ------- |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0676-implement-magic-dictionary) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -596,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0460-lfu-cache) |
+| [0676-implement-magic-dictionary](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0676-implement-magic-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
