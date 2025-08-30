@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0923-super-egg-drop](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0923-super-egg-drop) |
+| [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1488-sort-integers-by-the-power-value) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1036-rotting-oranges) |
+| [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
 |  |
