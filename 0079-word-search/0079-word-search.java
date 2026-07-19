@@ -1,13 +1,12 @@
 class Solution {
     public boolean exist(char[][] board, String word) {
-        
-        int n = board.length;
 
-        boolean[][] visited = new boolean[n][board[0].length];
-        
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<board[0].length; j++){
-                if(dfshelper(i, j, visited, board, word, 0)){
+        int row = board.length;
+        int col = board[0].length;
+
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                if (helper(i, j, row, col, board, word, 0)) {
                     return true;
                 }
             }
@@ -16,24 +15,31 @@ class Solution {
         return false;
     }
 
-    public boolean dfshelper(int row, int col, boolean[][] visited, char[][] board, String word, int index) {
-        if(index == word.length()){
+    public boolean helper(int i, int j, int row, int col,
+                          char[][] board, String word, int index) {
+
+        if (index == word.length()) {
             return true;
         }
 
-        if(row < 0 || col < 0 ||
-            row >= board.length || col >= board[0].length || 
-            visited[row][col] || board[row][col] != word.charAt(index) ){
-                return false;
+        if (i < 0 || i >= row || j < 0 || j >= col) {
+            return false;
         }
-        visited[row][col] = true;
-        
-        boolean found = dfshelper(row+1, col, visited, board, word, index+1) ||
-                    dfshelper(row, col+1, visited, board, word, index+1) ||
-                    dfshelper(row-1, col, visited, board, word, index+1)  || 
-                    dfshelper(row, col-1, visited, board, word, index+1);
 
-        visited[row][col] =  false;           
+        if (board[i][j] != word.charAt(index)) {
+            return false;
+        }
+
+        char temp = board[i][j];
+        board[i][j] = '#';
+
+        boolean found =
+                helper(i + 1, j, row, col, board, word, index + 1) ||
+                helper(i - 1, j, row, col, board, word, index + 1) ||
+                helper(i, j + 1, row, col, board, word, index + 1) ||
+                helper(i, j - 1, row, col, board, word, index + 1);
+
+        board[i][j] = temp;
 
         return found;
     }
