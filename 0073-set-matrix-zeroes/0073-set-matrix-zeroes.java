@@ -1,36 +1,59 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
 
-        int row = matrix.length;
-        int col = matrix[0].length;
+        int m = matrix.length;
+        int n = matrix[0].length;
 
-        List<int[]> zeros = new ArrayList<>();
+        boolean firstRowZero = false;
+        boolean firstColZero = false;
 
-        // Store all original zero positions
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
+        // Check first row
+        for (int j = 0; j < n; j++) {
+            if (matrix[0][j] == 0) {
+                firstRowZero = true;
+                break;
+            }
+        }
+
+        // Check first column
+        for (int i = 0; i < m; i++) {
+            if (matrix[i][0] == 0) {
+                firstColZero = true;
+                break;
+            }
+        }
+
+        // Mark rows and columns
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
                 if (matrix[i][j] == 0) {
-                    zeros.add(new int[]{i, j});
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        // Zero out corresponding rows and columns
-        for (int[] pos : zeros) {
-            markSurroundingZero(pos[0], pos[1], row, col, matrix);
-        }
-    }
-
-    public void markSurroundingZero(int i, int j, int row, int col, int[][] matrix) {
-
-        // Zero entire row
-        for (int c = 0; c < col; c++) {
-            matrix[i][c] = 0;
+        // Set zeroes based on markers
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
+                }
+            }
         }
 
-        // Zero entire column
-        for (int r = 0; r < row; r++) {
-            matrix[r][j] = 0;
+        // Zero first row if needed
+        if (firstRowZero) {
+            for (int j = 0; j < n; j++) {
+                matrix[0][j] = 0;
+            }
+        }
+
+        // Zero first column if needed
+        if (firstColZero) {
+            for (int i = 0; i < m; i++) {
+                matrix[i][0] = 0;
+            }
         }
     }
 }
