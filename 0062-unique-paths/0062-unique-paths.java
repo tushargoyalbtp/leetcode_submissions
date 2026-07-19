@@ -1,28 +1,35 @@
 class Solution {
+    // int count = 0;
+
     public int uniquePaths(int m, int n) {
-        // [i][j+1]-> down or [i+1][j]-> right;
-        int[][] dp=new int[m+1][n+1];
+
+        int[][] dp = new int[m+1][n+1];
+
         for(int[] arr:dp){
             Arrays.fill(arr,-1);
         }
 
-        return helper(dp,0,0,m-1,n-1);
+        return helper(0, 0, m, n, dp);
+      
     }
 
-    public int helper(int[][] dp, int i, int j, int row, int col){
-        if(row==i && col==j){
-            return dp[row][col]=1;
-        }
-
-        if(row<i || col<j){
+    public int helper(int row, int col, int m, int n, int[][] dp) {
+        if (row >= m || col >= n) {
             return 0;
         }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
+
+        if(row==m-1 || col==n-1){
+            return 1;
+        }
+        if (dp[row][col]!=-1) {
+            return dp[row][col];
         }
 
-        int downmove=helper(dp,i,j+1,row,col);
-        int rightmove=helper(dp,i+1,j,row,col);
-        return dp[i][j]=downmove+rightmove;
+        // move right
+        int down =  helper(row, col + 1, m, n, dp);
+        int right = helper(row + 1, col, m, n, dp);
+        dp[row][col] = down + right;
+        return dp[row][col];
+        
     }
 }
