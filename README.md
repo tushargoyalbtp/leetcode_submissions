@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0221-maximal-square) |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0221-maximal-square) |
