@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
+| [0980-unique-paths-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0257-binary-tree-paths) |
+| [0980-unique-paths-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
+| [0980-unique-paths-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0980-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [1463-cherry-pickup-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1463-cherry-pickup-ii) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
 | ------- |
