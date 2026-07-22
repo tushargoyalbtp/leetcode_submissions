@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1463-cherry-pickup-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1463-cherry-pickup-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1463-cherry-pickup-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1463-cherry-pickup-ii) |
 | [1488-sort-integers-by-the-power-value](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2262-solving-questions-with-brainpower) |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1117-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/1463-cherry-pickup-ii) |
 | [2411-spiral-matrix-iv](https://github.com/tushargoyalbtp/leetcode_submissions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
